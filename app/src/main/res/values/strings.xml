@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">smarttravel</string>
+    <string name="create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_account1">Create Account</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email1">Email</string>
+    <string name="password1">Password</string>
+    <string name="create_account2">Create Account</string>
+    <string name="login1">Login</string>
+    <string name="confirm_password">Confirm password</string>
+
+    <string name="a_desc">Baked goods are foods made from dough or batter and cooked by baking, a method of cooking food that uses prolonged dry heat, normally in an oven, but also in hot ashes, or on hot stones</string>
+    <string name="b_desc">Grilling involves cooking food on a rack over a heat source, usually a charcoal fire or ceramic briquettes heated by gas flames. Direct heat quickly sears the outside of food, producing distinctive robust, roasted―and sometimes pleasantly charred―flavors and a nice crust.</string>
+    <string name="c_desc">A dessert is a type of food that is eaten after lunch or dinner, and sometimes after a light meal or snack. It is usually a sweet food, like ice cream, cookies, and cakes. In some countries, cheeses such as Brie cheese and fruit are served as dessert. Some desserts are decorated, like birthday cakes.</string>
+    <string name="d_desc">Italian cuisine is a Mediterranean cuisine consisting of the ingredients, recipes and cooking techniques developed across the Italian Peninsula since antiquity, and later spread around the world together with waves of Italian diaspora</string>
+    <string name="e_desc">A milkshake (sometimes called a shake in the United States) is a sweet drink made by blending milk, ice cream, and flavorings or sweeteners such as butterscotch, caramel sauce, chocolate syrup, fruit syrup, or whole fruit into a thick, sweet, cold mixture.</string>
+    <string name="following">Following</string>
+    <string name="the_south_rift_part_of_kenya_is_a_little_piece_of_heaven_on_earth_the_famous_maasai_mara_national_reserve_and_amboseli_national_park_are_located_in_this_region_the_mara_is_bursting_with_untouched_wilderness_wildlife_and_native_birds_it_hosts_the_annual_wildebeest_and_zebra_amboseli_offers_a_breathtaking_view_of_the_african_grasslands_and_snow_capped_mt_kilimanjaro_the_highest_mountain_in_africa_the_park_has_a_diverse_terrain_varying_from_swampy_to_ravine_forests_to_the_desert_making_a_beautiful_setting_for_bird_and_wildlife_watchers_both_parks_provide_opportunities_to_discover_the_masai_people_and_their_exceptional_culture">The South Rift part of Kenya is a little piece of heaven on earth. The famous Maasai Mara National Reserve and Amboseli National Park are located in this region. The Mara is bursting with untouched wilderness wildlife and native birds. It hosts the annual wildebeest, and zebra Amboseli offers a breathtaking view of the African grasslands and snow-capped Mt. Kilimanjaro, the highest mountain in Africa. The park has a diverse terrain varying from swampy to ravine forests to the desert, making a beautiful setting for bird and wildlife watchers. Both parks provide opportunities to discover the Masai people and their exceptional culture.</string>
+    <string name="todo">TODO</string>
+    <string name="to">TODO</string>
+    <string name="todoo">TODO</string>
+    <string name="diani">Diani</string>
+    <string name="next_place">Next Place</string>
+    <string name="diani_kenya">Diani,Kenya</string>
+    <string name="kenya_is_a_land_of_tremendous_topography_and_distinctive_culture_east_africa_s_favorite_safari_destination_borders_tanzania_to_the_south_uganda_to_the_west_south_sudan_and_ethiopia_to_the_north_and_the_indian_ocean_lies_to_its_southeast_this_beautiful_country_boasts_its_imaginable_landscape_incredible_national_parks_and_game_reserves_rich_with_big_game_snow_capped_mountains_breathtaking_lakes_immense_sweeps_of_savannah_equatorial_forests_sweltering_deserts_pristine_beaches_and_warm_natured_people">Kenya is a land of tremendous topography and distinctive culture. East Africa’s favorite safari destination borders Tanzania to the south, Uganda to the west, South Sudan and Ethiopia to the north, and the Indian Ocean lies to its southeast. This beautiful country boasts its imaginable landscape, incredible national parks, and game reserves rich with big game, snow-capped mountains, breathtaking lakes, immense sweeps of savannah, equatorial forests, sweltering deserts, pristine beaches, and warm-natured people</string>
+    <string name="nakuru_kenya">Nakuru_kenya</string>
+    <string name="next_placee">Next Place</string>
+    <string name="amboseli_kenya">Amboseli,Kenya</string>
+</resources>
